@@ -1,0 +1,15 @@
+ul {
+  list-style-type: none;
+  
+    max-height: 400px;
+    overflow-y: auto;
+  
+}
+
+.description-input {
+  width: 300px;
+}
+
+.bi.bi-trash:hover {
+  color: red;
+}
